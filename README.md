@@ -69,9 +69,49 @@
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-> *(Add screenshots of your app screens here, like profile screen, habit list, AI suggestions, quotes, etc.)*
+### Authentication
+- **Login Screen**  
+  ![Login Screen](screenshots/login_screen.png)
+
+- **Registration Screen**  
+  ![Registration Screen](screenshots/registration_screen.png)
+
+### User Profile
+- **Profile Screen**  
+  ![Profile Screen](screenshots/profile_screen.png)
+
+- **Drawer Menu**  
+  ![Drawer](screenshots/drawer.png)
+
+### Habit Management
+- **Habit List Screen**  
+  ![Habit List Screen](screenshots/habit_list_screen.png)
+
+- **Today’s Habits Screen**  
+  ![Today’s Habits Screen](screenshots/todays_habit_screen.png)
+
+- **Add Habit Screen**  
+  ![Add Habit Screen](screenshots/add_habit.png)
+
+- **Edit Habit Screen**  
+  ![Edit Habit Screen](screenshots/edit_habit_screen.png)
+
+- **Goals Selection**  
+  ![Goals Screen](screenshots/goals_screen.png)
+
+### AI & Motivation
+- **AI Habit Suggestions**  
+  ![AI Suggestions](screenshots/ai_suggestions.png)
+
+- **Motivational Quotes Screen**  
+  ![Motivational Quotes](screenshots/motivational_quotes_screen.png)
+
+### Progress Tracking
+- **Chart / Progress Screen**  
+  ![Chart Screen](screenshots/chart_screen.png)
+
 
 ---
 
