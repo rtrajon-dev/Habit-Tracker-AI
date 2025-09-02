@@ -69,48 +69,90 @@
 
 ---
 
-## 📸 Screenshots
+<h2 align="center">📸 Screenshots</h2>
+<p align="center">
+  A quick tour of the Habit Tracker AI app.
+</p>
 
-### Authentication
-- **Login Screen**  
-  ![Login Screen](screenshots/login_screen.png)
+<!-- Authentication -->
+<h3>Authentication</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/login_screen.png" alt="Login Screen" width="280"><br>
+      <sub><b>Login</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/registration_screen.png" alt="Registration Screen" width="280"><br>
+      <sub><b>Registration</b></sub>
+    </td>
+  </tr>
+</table>
 
-- **Registration Screen**  
-  ![Registration Screen](screenshots/registration_screen.png)
+<!-- Profile & Navigation -->
+<h3>User Profile & Navigation</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/profile_screen.png" alt="Profile Screen" width="280"><br>
+      <sub><b>Profile</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/drawer.png" alt="App Drawer" width="280"><br>
+      <sub><b>Drawer</b></sub>
+    </td>
+  </tr>
+</table>
 
-### User Profile
-- **Profile Screen**  
-  ![Profile Screen](screenshots/profile_screen.png)
+<!-- Habits -->
+<h3>Habit Management</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/habit_list_screen.png" alt="Habit List Screen" width="280"><br>
+      <sub><b>Habit List</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/todays_habit_screen.png" alt="Today's Habits Screen" width="280"><br>
+      <sub><b>Today’s Habits</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/add_habit.png" alt="Add Habit Screen" width="280"><br>
+      <sub><b>Add Habit</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/edit_habit_screen.png" alt="Edit Habit Screen" width="280"><br>
+      <sub><b>Edit Habit</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/goals_screen.png" alt="Goals Selection Screen" width="280"><br>
+      <sub><b>Goals Selection</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/ai_suggestions.png" alt="AI Habit Suggestions" width="280"><br>
+      <sub><b>AI Suggestions</b></sub>
+    </td>
+  </tr>
+</table>
 
-- **Drawer Menu**  
-  ![Drawer](screenshots/drawer.png)
-
-### Habit Management
-- **Habit List Screen**  
-  ![Habit List Screen](screenshots/habit_list_screen.png)
-
-- **Today’s Habits Screen**  
-  ![Today’s Habits Screen](screenshots/todays_habit_screen.png)
-
-- **Add Habit Screen**  
-  ![Add Habit Screen](screenshots/add_habit.png)
-
-- **Edit Habit Screen**  
-  ![Edit Habit Screen](screenshots/edit_habit_screen.png)
-
-- **Goals Selection**  
-  ![Goals Screen](screenshots/goals_screen.png)
-
-### AI & Motivation
-- **AI Habit Suggestions**  
-  ![AI Suggestions](screenshots/ai_suggestions.png)
-
-- **Motivational Quotes Screen**  
-  ![Motivational Quotes](screenshots/motivational_quotes_screen.png)
-
-### Progress Tracking
-- **Chart / Progress Screen**  
-  ![Chart Screen](screenshots/chart_screen.png)
+<!-- Motivation & Progress -->
+<h3>Motivation & Progress</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/motivational_quotes_screen.png" alt="Motivational Quotes Screen" width="280"><br>
+      <sub><b>Motivational Quotes</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/chart_screen.png" alt="Progress Chart Screen" width="280"><br>
+      <sub><b>Progress Charts</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 ---
