@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878701488514",
+    "project_id": "habit-c972a",
+    "storage_bucket": "habit-c972a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878701488514:android:ebb15aa7c3801bc011079b",
+        "android_client_info": {
+          "package_name": "com.example.habit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5W3OIe-EzWscYQReSoyTPfzp2Tu_L0RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
